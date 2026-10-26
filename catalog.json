@@ -1,0 +1,21 @@
+{
+  "shop": {
+    "name": "Ruby's Flower Shop",
+    "tagline": "Beautiful blooms for every occasion",
+    "description": "Browse our flower arrangements and contact us for availability and orders.",
+    "contactUrl": "",
+    "phone": "",
+    "facebookName": "",
+    "facebookUrl": "",
+    "location": "",
+    "mapsUrl": "",
+    "avatar": "",
+    "cover": ""
+  },
+  "categories": [
+    "Funeral & Sympathy",
+    "Boxes & Vases",
+    "Add-Ons & Gifts"
+  ],
+  "products": []
+}
